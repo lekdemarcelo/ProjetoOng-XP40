@@ -239,3 +239,78 @@ h2{
   color:#8e8888;
  
 }
+
+.faleConosco {
+margin: 51px 0 0 51px;
+max-width: 100%;
+color: #03738C;
+
+
+}
+.contato-form {
+  padding: 55px;
+font-size: 20px;
+}
+
+  .btn.btn-primary.btn-sm{
+    height: 39px;
+    width: 155px;
+    font-size: 13px;
+    background-color:#03738C ;
+
+  }
+  
+  .contato-map-responsive{
+    overflow:hidden;
+    padding-bottom:32.25%;
+    position:relative;
+    height:0;
+    }
+    
+    .contato-map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    
+    }
+
+  .contato-paragrafos{
+    font-size: 20px;
+    margin-top: 75px;
+    margin-right: 55px;
+  }
+  .resizedTextbox {width: 364px; height: 300px}
+
+  .flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    
+  }
+
+  @media (max-width: 1004px) { 
+  .contato-paragrafos {
+    margin-bottom: 100px;
+  }
+  }
+
+  a {
+  text-decoration: none;
+  color: black
+  }
+
+  a:hover {
+    color:black
+  }
+
+ 
+  
+
+
+
+
+
+
